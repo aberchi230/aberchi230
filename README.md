@@ -1,16 +1,12 @@
-## Hi there 👋
+┌──(you㉿github)-[~/cybersec_journey]
+└─$ whoami
+🧑‍💻 Cybersecurity Student | Year 1 | Breaking into the industry
 
-<!--
-**aberchi230/aberchi230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+└─$ cat interests.txt
+🕵️‍♂️ Ethical Hacking
+📡 Network Recon
+🔐 Linux, Bash & Python
+📁 CTFs / Forensics / Malware Analysis
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+└─$ echo "Always learning. Always curious."
+🌱 Open to collabs | DMs welcome
